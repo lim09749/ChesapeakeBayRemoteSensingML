@@ -1,5 +1,6 @@
 ##This file explains the purpose of the .R files (the code) in the folder
-
+##Note that the machine learning algorithms occupied too much disk space, so they could not be stored here. Here is the google drive 
+##link to the machine learning algorithms 
 ##Data assemblage
 "dist_shore_dist_satellite.R"
 ##Measures effect of distance to shore from satellite and distance from satellite to in-situ on r-squared between reflectance and in-situ
