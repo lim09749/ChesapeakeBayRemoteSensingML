@@ -86,16 +86,6 @@
 ##Used for monthly climatology (color)
 "modis pretty.RData"
 
-##Monthly climatology plots (not data)
-"TSS_ann_mc.tiff"
-"TSS_glm_mc.tiff"
-"TSS_rvm_mc.tiff"
-"TSS_svm_mc.tiff"
-"CHL_ann_mc.tiff"
-"CHL_glm_mc.tiff"
-"CHL_rvm_mc.tiff"
-"CHL_svm_mc.tiff"
-
 ##Averages in the lower, middle, and upper Bay. 
 "CHL_lower_avg.csv"
 "CHL_middle_avg.csv"
