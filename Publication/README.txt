@@ -1,5 +1,5 @@
 ##This file explains the purpose of each of the files in the ./Publication/ folder.
-
+##Note that the GLM and some of the figures are in the Google Science Fair Project
 ################################################Section 1####################################################################
 ##This section explains the purpose of the .R files (the code) in the folder
 ###############################################################################################################################
