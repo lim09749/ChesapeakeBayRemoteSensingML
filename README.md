@@ -1,5 +1,5 @@
 # ChesapeakeBayRemoteSensingML
-This repository contains code that analyzes remote sensing and in-situ water quality data, develops machine learning algorithms to infer in-situ concentrations from satellite reflectance, and tests the machine learning algorithms. 
+This repository contains code that analyzes remote sensing and in-situ water quality data, develops machine learning algorithms to infer in-situ concentrations from satellite reflectance, and tests the machine learning algorithms. Note that the results and scripts are in the Publication folder. 
 
 The folder ./Publication contains the scripts, data, and plots created in this research project.
 
